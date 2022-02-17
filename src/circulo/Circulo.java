@@ -36,7 +36,7 @@ public class Circulo {
     }
     public static void CalculaLongitud(double r) {
         double area=(PI*r*r);
-	System.out.printf("El valor del área es %f\n",area);
+	System.out.printf("El vralor del área es %f\n",area);
     }
     
    
