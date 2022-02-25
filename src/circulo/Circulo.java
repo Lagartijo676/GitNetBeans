@@ -22,7 +22,7 @@ public class Circulo {
         
         try{
         Scanner s=new Scanner(System.in);
-        System.out.println("Introduce el radio:");
+        System.out.println("Introduce el rasdio:");
         double r=s.nextDouble();
         CalculaArea(r);
         }catch(Exception e){
