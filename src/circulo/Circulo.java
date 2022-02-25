@@ -32,7 +32,7 @@ public class Circulo {
     }
     public static void CalculaArea(double r) {
         double area=(PI*r*r);
-	System.out.printf("El valor del área es %f\n",area);
+	System.out.printf("El valor del area es %f\n",area);
     }
     
    
