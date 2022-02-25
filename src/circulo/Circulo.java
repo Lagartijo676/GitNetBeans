@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author monse
+ * @author montse
  */
 public class Circulo {
 
